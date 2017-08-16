@@ -13,7 +13,7 @@
     "node": ">=6"
   },
   "scripts": {
-    "test": "ava"
+    "test": "ava && fyi"
   },
   "files": [
     "index.js"
