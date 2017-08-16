@@ -1,4 +1,4 @@
-# rand-id
+# rand-id [![Build Status](https://travis-ci.org/tobihrbr/rand-id.svg?branch=master)](https://travis-ci.org/tobihrbr/rand-id)
 
 > a simple uid generator
 
