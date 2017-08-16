@@ -13,7 +13,8 @@
     "node": ">=6"
   },
   "scripts": {
-    "test": "ava && fyi"
+    "test": "ava",
+    "lint": "fyi"
   },
   "files": [
     "index.js"
