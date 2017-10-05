@@ -1,4 +1,4 @@
-# rand-id [![Build Status](https://travis-ci.org/tobihrbr/rand-id.svg?branch=master)](https://travis-ci.org/tobihrbr/rand-id) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
+# rand-id [![Build Status](https://travis-ci.org/herber/rand-id.svg?branch=master)](https://travis-ci.org/herber/rand-id) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
 
 
 > a simple uid generator
